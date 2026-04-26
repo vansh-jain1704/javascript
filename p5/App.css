@@ -42,3 +42,13 @@ h1 {
 .status.closed { 
   color: #2ecc71; 
 } 
+
+
+
+
+node -v 
+npm -v
+ Create a folder 
+npx create-react-app 
+npx create-react-app issue-tracker
+cd issue-tracker
