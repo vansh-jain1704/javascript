@@ -12,7 +12,7 @@ let student = {
  
 student.displayInfo(); 
  
-// Add passed property 
+
 student.passed = student.grade >= 50; 
  
 console.log("Passed:", student.passed); 
